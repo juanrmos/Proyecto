@@ -1,0 +1,2 @@
+Nombre: Pepe, Cantidad: 4
+Nombre: Pablo, Cantidad: 40

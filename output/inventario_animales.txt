@@ -1,0 +1,1 @@
+Nombre: gato, Cantidad: 43
